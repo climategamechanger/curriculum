@@ -1,11 +1,11 @@
-name: Morea CORE (Change me)
+name: Climate Game Changer Curriculum
 markdown: kramdown
 kramdown:
   hard_wrap: false
   input: GFM
   syntax_highlighter: rouge
 mathjax: true
-baseurl: /core
+baseurl: /curriculum
 exclude: [morea]
 morea_theme: spacelab
 morea_navbar_items:
@@ -14,7 +14,7 @@ morea_navbar_items:
   - Outcomes
   - Readings
   - Experiences
-  - Assessments
+  #- Assessments
   #- Schedule
 
 # The following properties are optional.
