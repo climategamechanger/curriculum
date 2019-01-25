@@ -11,32 +11,24 @@ Climate Change in a Nutshell
   * O:
   * R: Race of Our Lives, Revisited.
   * E:
+
 Climate Change and the Land
 Climate Change and the Ocean
 Climate Change and Hawaii
 Economic Implications of Climate Change
 Ethical Implications of Climate Change
 Current Efforts
-What you can do right now
+  * R: climategamechangers.org
 
+What you can do right now
+  * Opportunities for research, innovation, entrepreneurship, social action
 
 ## Other stuff
-
   * Add points, leaderboard, and laptop stickers as game mechanics to github.io page.
+  * Contact the UK climategamechangers guy with website links and desire to collaborate. Maybe include link to his s
 
 
-General issues in climate change
-
-Climate change impacts on Hawaii
-
-What's being done right now in Hawaii
-
-How to be a responsible citizen in the era of climate change
-
-Opportunities for research, innovation, entrepreneurship, social action
-
-
-Topics to address:
+# Potential Topics to include:
   * Environmental Policies
   * Economics of Climate change
   * Vulnerabilities and adaptation in coastal infrastructure
