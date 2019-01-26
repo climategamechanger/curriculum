@@ -11,10 +11,8 @@ morea_experiences:
 morea_assessments:
 morea_type: module
 morea_icon_url: /morea/introduction/introduction.jpg
-morea_start_date: "2019-01-08"
-morea_end_date: "2019-01-10"
 morea_labels:
 morea_sort_order: 10
 ---
 
-Overview of Climate Game Changer, and some simple initial tasks to get oriented and ready for the course.
+Overview of the Climate Game Changer course, and some simple initial tasks to get started.

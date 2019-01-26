@@ -35,7 +35,7 @@ What you can do right now
   * Climate modeling
   * Sustainable development
   * Environmental and conservation ethics
-  * Principles of sustainabiity analysis
+  * Principles of sustainability analysis
   * Hawaii perspectives in ahupua'a.
 
 
