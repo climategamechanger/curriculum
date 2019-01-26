@@ -8,6 +8,8 @@ published: true
 
 This page collects together all of the "outcomes" associated with individual modules. Outcomes identify what students will know and be able to do if they master the material.
 
+The current set of outcomes are totally preliminary, and need to be expanded and made more specific as we determine the specific content we will present.
+
 <!---  UH/ICS-specific boilerplate. Modify for your own organization.
 
 ### Course-level outcomes

@@ -6,4 +6,4 @@ morea_type: outcome
 morea_sort_order: 50
 ---
 
-  * You understand predictions for beach loss, etc.
+  * (Example: You understand predictions for beach loss.)

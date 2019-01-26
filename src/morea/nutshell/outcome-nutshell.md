@@ -7,4 +7,4 @@ morea_sort_order: 20
 ---
 
   * You understand the basic issues in climate change.
-  * You are ready to dive deeper into specific issues.
+  * You have identified areas of interest you wish to learn more about.

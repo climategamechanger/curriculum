@@ -17,15 +17,15 @@ title: Modules
 
 <div class="container">
   <h1>Modules <small>Topics covered in this class.</small></h1>
-  
+
   {% if site.morea_overview_modules %}
     {{ site.morea_overview_modules.content | markdownify }}
   {% endif %}
-  
+
   <div class="row">
      {% for module in site.morea_module_pages %}
-        <div class="col-sm-3">
-        
+        <div class="col-sm-4">
+
         {% if module.morea_coming_soon %}
           <div class="thumbnail">
             <img src="{{ site.baseurl }}{{ module.morea_icon_url }}" width="100" class="img-circle img-responsive">
@@ -51,13 +51,13 @@ title: Modules
                 <span class="badge">{{ label }}</span>
               {% endfor %}
               </p>
-              
+
             </div>
           </a>
         {% endif %}
         </div>
-         
-       {% cycle '', '', '', '</div><div class="row">' %}
+
+       {% cycle  '', '', '</div><div class="row">' %}
      {% endfor %}
   </div>
 </div>

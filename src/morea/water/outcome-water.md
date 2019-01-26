@@ -6,4 +6,4 @@ morea_type: outcome
 morea_sort_order: 40
 ---
 
-  * You understand predictions for sea level rise, etc.
+  * (Example: You understand predictions for sea level rise.)

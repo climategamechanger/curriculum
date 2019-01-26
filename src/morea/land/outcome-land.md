@@ -6,4 +6,4 @@ morea_type: outcome
 morea_sort_order: 30
 ---
 
-  * You understand predictions for fires, etc.
+  * (Example: You understand the predictions related to increased wild fires.)
