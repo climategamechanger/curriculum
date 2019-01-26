@@ -1,5 +1,5 @@
 ---
-title: "Climate Change and Land"
+title: "Climate change and land"
 published: true
 morea_coming_soon: false
 morea_id: land
@@ -14,4 +14,4 @@ morea_labels:
 morea_sort_order: 30
 ---
 
-How climate change will impact on land masses.
+How climate change is predicted to impact on land masses.

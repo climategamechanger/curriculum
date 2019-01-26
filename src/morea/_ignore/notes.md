@@ -24,7 +24,6 @@ What you can do right now
   * Opportunities for research, innovation, entrepreneurship, social action
 
 ## Other stuff
-  * Add points, leaderboard, and laptop stickers as game mechanics to github.io page.
   * Contact the UK climategamechangers guy with website links and desire to collaborate. Maybe include link to his s
 
 

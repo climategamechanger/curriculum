@@ -1,5 +1,5 @@
 ---
-title: "Climate Change and Water"
+title: "Climate change and water"
 published: true
 morea_coming_soon: false
 morea_id: water
@@ -14,4 +14,4 @@ morea_labels:
 morea_sort_order: 40
 ---
 
-How climate change will impact on oceans.
+How climate change is predicted to impact on oceans.

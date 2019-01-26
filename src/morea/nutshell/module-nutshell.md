@@ -1,5 +1,5 @@
 ---
-title: "Climate Change in a nutshell"
+title: "Climate change in a nutshell"
 published: true
 morea_coming_soon: false
 morea_id: nutshell
