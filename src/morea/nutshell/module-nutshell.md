@@ -7,8 +7,13 @@ morea_outcomes:
   - outcome-nutshell
 morea_readings:
   - reading-race-of-our-lives
+  - reading-extreme-weather-2018
 morea_experiences:
+  - experience-quiz-yourself
+  - experience-whats-your-passion
 morea_assessments:
+  - assessment-module-statistics
+  - assessment-profile-passion
 morea_type: module
 morea_icon_url: /morea/nutshell/nutshell.jpg
 morea_labels:

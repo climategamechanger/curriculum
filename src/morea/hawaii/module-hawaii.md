@@ -6,8 +6,14 @@ morea_id: hawaii
 morea_outcomes:
   - outcome-hawaii
 morea_readings:
+  - reading-sea-level-rise-viewer
+  - reading-national-climate-assessment-hawaii
+  - reading-aloha-plus-challenge
 morea_experiences:
+  - experience-quiz-yourself
+  - experience-aloha-plus-and-climate-change
 morea_assessments:
+  - assessment-aloha-challenge
 morea_type: module
 morea_icon_url: /morea/hawaii/hawaii.jpg
 morea_labels:

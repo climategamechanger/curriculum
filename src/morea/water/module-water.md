@@ -7,6 +7,7 @@ morea_outcomes:
   - outcome-water
 morea_readings:
 morea_experiences:
+  - experience-quiz-yourself
 morea_assessments:
 morea_type: module
 morea_icon_url: /morea/water/water.jpg

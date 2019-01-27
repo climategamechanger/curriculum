@@ -7,3 +7,4 @@ morea_sort_order: 50
 ---
 
   * (Example: You understand predictions for beach loss.)
+  * You have developed a view on how Hawaii should prepare for climate change.

@@ -8,18 +8,10 @@ Introduction
   * E: Set up your profile
 
 Climate Change in a Nutshell
-  * O:
-  * R: Race of Our Lives, Revisited.
-  * R: https://www.washingtonpost.com/science/2018/12/31/extreme-weather-was-raging-howling-signal-climate-change/
-  * E:
 
 Climate Change and the Land
 Climate Change and the Ocean
-  * R: https://www.cbsnews.com/news/the-great-pacific-garbage-patch-cleaning-up-the-plastic-in-the-ocean-60-minutes/
 Climate Change and Hawaii
-  * R: http://www.pacioos.hawaii.edu/shoreline/slr-hawaii/
-  * R: https://nca2018.globalchange.gov/chapter/27/
-  * R: https://dashboard.hawaii.gov/aloha-challenge
 Economic Implications of Climate Change
 Ethical Implications of Climate Change
 Current Efforts
