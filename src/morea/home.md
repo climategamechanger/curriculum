@@ -24,6 +24,8 @@ This site contains four structural elements:
 
 Note that the current set of modules, outcomes, readings, experiences, and assessments are partial, incomplete, and preliminary.  They are provided just as a catalyst for discussion and improvement.
 
+Also note that this website is intended to support *design* of the curriculum, not *delivery*.  We can implement a separate application to actually provide this information to students, develop online quizzes, provide game mechanics, and so forth.
+
 
 
 
