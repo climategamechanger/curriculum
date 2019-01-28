@@ -8,6 +8,7 @@ morea_outcomes:
 morea_readings:
   - reading-help-kids-cope
   - reading-resilient-oahu-sustainability-tips
+  - reading-screencast-greta
 morea_experiences:
   - experience-quiz-yourself
   - experience-oahu-resilience-survey
