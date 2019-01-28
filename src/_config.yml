@@ -14,7 +14,7 @@ morea_navbar_items:
   - Outcomes
   - Readings
   - Experiences
-  #- Assessments
+  - Assessments
   #- Schedule
 
 # The following properties are optional.

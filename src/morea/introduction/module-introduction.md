@@ -9,6 +9,7 @@ morea_readings:
   - reading-screencast-guided-tour-website
 morea_experiences:
 morea_assessments:
+  - assessment-module-statistics
 morea_type: module
 morea_icon_url: /morea/introduction/introduction.jpg
 morea_labels:

@@ -9,10 +9,12 @@ morea_readings:
   - reading-sea-level-rise-viewer
   - reading-national-climate-assessment-hawaii
   - reading-aloha-plus-challenge
+  - reading-civil-beat-moving-homes
 morea_experiences:
   - experience-quiz-yourself
   - experience-aloha-plus-and-climate-change
 morea_assessments:
+  - assessment-module-statistics
   - assessment-aloha-challenge
 morea_type: module
 morea_icon_url: /morea/hawaii/hawaii.jpg

@@ -6,9 +6,17 @@ morea_id: efforts
 morea_outcomes:
   - outcome-efforts
 morea_readings:
+  - reading-ipcc
+  - reading-hawaii-climate-change-portal
+  - reading-resilient-oahu
+  - reading-thousand-trees-in-a-day
+  - reading-ige-bills
+  - reading-ten-groups-to-watch
+  - reading-climate-game-changers
 morea_experiences:
   - experience-quiz-yourself
 morea_assessments:
+  - assessment-module-statistics
 morea_type: module
 morea_icon_url: /morea/efforts/efforts.jpg
 morea_labels:

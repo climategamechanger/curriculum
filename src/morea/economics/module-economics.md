@@ -9,6 +9,7 @@ morea_readings:
 morea_experiences:
   - experience-quiz-yourself
 morea_assessments:
+  - assessment-module-statistics
 morea_type: module
 morea_icon_url: /morea/economics/economics.jpg
 morea_labels:

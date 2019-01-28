@@ -8,6 +8,10 @@ published: true
 
 This page collects together all of the "assessments" associated with individual modules.
 
-In this site, assessments represent the *results* of performing assessment activities, not the assessments themselves.  (Usually, you don't want to publish the actual assessment instruments (i.e. the tests) on the course website!)
+Assessments should help course designers understand how effective the modules are at:
 
-Publishing assessment results enable students to see how well they did compared to others.  It also allows the instructor to provide feedback about the assessment activity.
+  1. Engaging people: do they actually look at the module contents?
+  2. Improving their "climate change literacy": do they achieve module objectives for learning?
+  3. Creating behavioral change: does the module encourage people to do something related to climate change?
+
+Note that the set of assessments currently in the site do not fulfill these requirements.

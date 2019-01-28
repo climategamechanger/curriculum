@@ -8,6 +8,7 @@ morea_outcomes:
 morea_readings:
   - reading-race-of-our-lives
   - reading-extreme-weather-2018
+  - reading-nasa-climate
 morea_experiences:
   - experience-quiz-yourself
   - experience-whats-your-passion
